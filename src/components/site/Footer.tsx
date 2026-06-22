@@ -28,7 +28,7 @@ export default function Footer() {
             >
               <MessageCircle className="h-5 w-5" />
             </a>
-            <a href="https://www.linkedin.com/in/aromex-exports-2a1482415/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/10 hover:bg-gold hover:text-gold-foreground transition">
+            <a href="https://www.linkedin.com/company/aromexexports/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/10 hover:bg-gold hover:text-gold-foreground transition">
               <Linkedin className="h-5 w-5" />
             </a>
             <a href="https://www.instagram.com/aromexexports" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/10 hover:bg-gold hover:text-gold-foreground transition">
