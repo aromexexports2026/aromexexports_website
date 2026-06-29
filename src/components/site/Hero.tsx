@@ -30,7 +30,7 @@ export default function Hero() {
             for Global Buyers
           </h1>
           <p className="mt-6 text-base md:text-lg text-white/85 max-w-2xl leading-relaxed">
-            Aromex Global Exports delivers high-curcumin turmeric, authentic Indian spices, fresh
+            Aromex Exports delivers high-curcumin turmeric, authentic Indian spices, fresh
             vegetables, fruits, herbs and agro commodities — sourced direct from farms and shipped
             to 30+ countries under strict export quality standards.
           </p>
