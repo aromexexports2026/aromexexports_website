@@ -3,7 +3,7 @@ export const SITE = {
   tagline: "Global Reach. Natural Excellence.",
   phone: "+91 9866673011",
   phoneRaw: "919866673011",
-  email: "sales@aromexexports.com",
+  email: "sales_@aromexexports.com",
   whatsappUrl:
     "https://wa.me/919866673011?text=Hello%20Aromex%20Global%20Exports,%20I%20am%20interested%20in%20your%20products.",
   // TODO: replace with your Web3Forms access key from https://web3forms.com
