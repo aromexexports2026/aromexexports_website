@@ -40,7 +40,7 @@ export default function Products() {
             <span className="text-gradient-gold">Our Flagship Exports</span>
           </h2>
           <p className="mt-4 text-muted-foreground">
-            Aromex Global Exports specializes in premium-grade Indian turmeric (haldi) and a full
+            Aromex Exports specializes in premium-grade Indian turmeric (haldi) and a full
             range of authentic spices, alongside vegetables, fruits, herbs and agro commodities for
             buyers worldwide.
           </p>
