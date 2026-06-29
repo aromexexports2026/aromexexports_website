@@ -32,7 +32,7 @@ export default function About() {
         <div>
           <span className="text-xs font-semibold tracking-[0.25em] uppercase text-gold">About Us</span>
           <h2 className="mt-3 text-3xl md:text-5xl font-semibold text-primary leading-tight">
-            About Aromex Global Exports
+            About Aromex Exports
           </h2>
           <p className="mt-6 text-muted-foreground leading-relaxed">
             Aromex Exports is committed to delivering premium-quality agricultural and food
