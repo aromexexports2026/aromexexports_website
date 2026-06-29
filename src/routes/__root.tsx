@@ -72,8 +72,8 @@ function ErrorComponent({ error, reset }: { error: Error; reset: () => void }) {
   );
 }
 
-// TODO: Replace G-XXXXXXXXXX with your Google Analytics 4 Measurement ID
-const GA_ID = "G-XXXXXXXXXX";
+// TODO: Replace G-BE1YB4GSMZ with your Google Analytics 4 Measurement ID
+const GA_ID = "G-BE1YB4GSMZ";;
 
 export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()({
   head: () => ({
