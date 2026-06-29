@@ -11,7 +11,7 @@ export default function Footer() {
             <span className="inline-flex items-center justify-center h-16 w-16 rounded-full bg-white ring-2 ring-gold/70 shadow-luxe overflow-hidden">
               <img src={logo} alt="Aromex Global Exports logo" className="h-full w-full object-contain p-1.5" />
             </span>
-            <span className="font-display text-xl text-white">Aromex Global Exports</span>
+            <span className="font-display text-xl text-white">Aromex Exports</span>
           </div>
           <p className="mt-5 text-sm text-primary-foreground/80 max-w-md leading-relaxed">
             {SITE.tagline} — Premium-quality spices, vegetables, fruits, herbs and agricultural
@@ -72,7 +72,7 @@ export default function Footer() {
       </div>
 
       <div className="mx-auto max-w-7xl container-px mt-12 pt-6 border-t border-white/10 text-center text-xs text-primary-foreground/70">
-        © {new Date().getFullYear()} Aromex Global Exports. All Rights Reserved.
+        © {new Date().getFullYear()} Aromex Exports. All Rights Reserved.
       </div>
     </footer>
   );
