@@ -35,7 +35,7 @@ export default function About() {
             About Aromex Global Exports
           </h2>
           <p className="mt-6 text-muted-foreground leading-relaxed">
-            Aromex Global Exports is committed to delivering premium-quality agricultural and food
+            Aromex Exports is committed to delivering premium-quality agricultural and food
             products from India to international markets. We ensure exceptional quality, hygienic
             handling, and reliable delivery while building long-term partnerships worldwide.
           </p>
