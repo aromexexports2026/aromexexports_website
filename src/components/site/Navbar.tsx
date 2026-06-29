@@ -30,12 +30,12 @@ export default function Navbar() {
       }`}
     >
       <nav className="mx-auto max-w-7xl container-px flex items-center justify-between h-16 md:h-20">
-        <a href="#home" className="flex items-center gap-3 shrink-0" aria-label="Aromex Global Exports home">
+        <a href="#home" className="flex items-center gap-3 shrink-0" aria-label="Aromex  Exports home">
           <span className="inline-flex items-center justify-center h-11 w-11 md:h-14 md:w-14 rounded-full bg-white ring-2 ring-gold/70 shadow-luxe overflow-hidden">
             <img src={logo} alt="Aromex Global Exports — Indian turmeric (haldi) and spices exporter logo" className="h-full w-full object-contain p-1" />
           </span>
           <span className="hidden sm:flex flex-col leading-tight">
-            <span className="font-display text-base md:text-lg font-semibold text-primary">Aromex Global Exports</span>
+            <span className="font-display text-base md:text-lg font-semibold text-primary">Aromex  Exports</span>
             <span className="text-[10px] md:text-xs tracking-[0.18em] uppercase text-gold">Haldi • Spices • Agro</span>
           </span>
         </a>
