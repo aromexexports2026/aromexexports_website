@@ -35,7 +35,7 @@ export default function Navbar() {
             <img src={logo} alt="Aromex Global Exports — Indian turmeric (haldi) and spices exporter logo" className="h-full w-full object-contain p-1" />
           </span>
           <span className="hidden sm:flex flex-col leading-tight">
-            <span className="font-display text-base md:text-lg font-semibold text-primary">Aromex  Exports</span>
+            <span className="font-display text-base md:text-lg font-semibold text-primary">Aromex Exports</span>
             <span className="text-[10px] md:text-xs tracking-[0.18em] uppercase text-gold">Haldi • Spices • Agro</span>
           </span>
         </a>
